@@ -1,0 +1,17 @@
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.csproj.AssemblyReference.cache
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.AssemblyInfoInputs.cache
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.AssemblyInfo.cs
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.csproj.CoreCompileInputs.cache
+/Users/bettydemissie/Desktop/optimising-electricity/bin/Debug/net7.0/optimising-electricity
+/Users/bettydemissie/Desktop/optimising-electricity/bin/Debug/net7.0/optimising-electricity.deps.json
+/Users/bettydemissie/Desktop/optimising-electricity/bin/Debug/net7.0/optimising-electricity.runtimeconfig.json
+/Users/bettydemissie/Desktop/optimising-electricity/bin/Debug/net7.0/optimising-electricity.dll
+/Users/bettydemissie/Desktop/optimising-electricity/bin/Debug/net7.0/optimising-electricity.pdb
+/Users/bettydemissie/Desktop/optimising-electricity/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.csproj.CopyComplete
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.dll
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/refint/optimising-electricity.dll
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.pdb
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/optimising-electricity.genruntimeconfig.cache
+/Users/bettydemissie/Desktop/optimising-electricity/obj/Debug/net7.0/ref/optimising-electricity.dll
